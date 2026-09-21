@@ -1,0 +1,23 @@
+packages/rpc/package.json
+  s_831a6d153a7fc1::t_ec36a0c2fbf2b5 10
+packages/rpc/src/services/link-service.test.ts
+  s_831a6d153a7fc1::t_72f871b2f4281a 67-71,73,75,77
+  s_831a6d153a7fc1::t_490e6f079c8364 66,79
+  s_831a6d153a7fc1::t_a3c485ed883101 81-89,100-102,119-121,145-147,156-158,176-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bdab7ef37843dea52949aca25801dd8ad294040a",
+  "prompts": {},
+  "sessions": {
+    "s_831a6d153a7fc1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3acdaa47ffeNKxKunxqiJwKqX",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
