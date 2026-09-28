@@ -1,0 +1,1091 @@
+apps/insights/src/event-reach.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 71
+packages/ai/src/ai/mcp/tools.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 29,33-37,46-47,50,81-86,93-116
+apps/dashboard/app/(auth)/layout.test.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-79
+packages/ai/src/types/tables.ts
+  s_277643cb346500::t_2553a9d6d437e9 5,8
+apps/docs/app/(home)/pricing/layout.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-5,11-12
+.agents/skills/databuddy-internal/SKILL.md
+  s_277643cb346500::t_2553a9d6d437e9 32,34
+apps/dashboard/app/(main)/home/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 77,155
+packages/db/src/clickhouse/schema-parse.ts
+  s_277643cb346500::t_2553a9d6d437e9 18,108-109,112,132-133,140,145,159-160,164,174-175
+packages/db/src/drizzle/schema/insights.ts
+  s_277643cb346500::t_2553a9d6d437e9 6,368-414
+apps/dashboard/app/(auth)/layout.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-4,6-10,12-27
+apps/dashboard/components/ui/composables/chart.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4,651,654-655,666,668,696,704-715,766,768,778,783,806,816
+packages/rpc/src/routers/insights.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,27,31-32,46-48,50,54,75,1198-1304,1765-1955
+apps/dashboard/public/ai/Manus.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+.github/workflows/health-check.yml
+  s_277643cb346500::t_2553a9d6d437e9 51-112,115-116,120,125-126,148,221,345-346,375,378,384,387,457-458,490,493,499,502,592-593,638,641,647,650,717-718,763,779,785,788
+apps/api/src/routes/webhooks/autumn.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 209-210,585
+apps/insights/src/idempotency.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 561-563,621,791,2840
+packages/ai/src/query/builders/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 1,36,107,109-125,165
+apps/docs/proxy.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-2,4-6,8-14,16,25-27
+packages/sdk/package.json
+  s_277643cb346500::t_2553a9d6d437e9 24,62-65
+apps/basket/src/routes/webhooks/stripe.ts
+  s_277643cb346500::t_2553a9d6d437e9 13-19,123-124,126,129,161-162,205-207,254-255,258-260,274-288
+apps/docs/app/(home)/databunny/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 51,65,87-89,145
+packages/db/package.json
+  s_277643cb346500::t_2553a9d6d437e9 24-25,27-28,39
+apps/dashboard/app/(main)/websites/[id]/vitals/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 31-34
+packages/auth/package.json
+  s_277643cb346500::t_2553a9d6d437e9 11-12,19-22,30
+apps/api/src/rpc/openapi-config.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,53,129
+apps/dashboard/public/ai/ByteDance.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/status/app/[slug]/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4,9,11-16,26-29,31-33,129,131,189-192,194,197,199,201,205,208,210-213,215,221-229
+apps/dashboard/app/(main)/monitors/status-pages/[id]/_components/add-monitor-dialog.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4,9-12,100,113,126,129,268,275
+apps/dashboard/app/(auth)/register/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,42-43,127-129,212-214,217-219,223-225,245-255,270-295,297-308
+packages/rpc/src/middleware/track-mutation.ts
+  s_277643cb346500::t_2553a9d6d437e9 102-104
+packages/rpc/src/types/billing.ts
+  s_277643cb346500::t_2553a9d6d437e9 11,17,44
+apps/dashboard/app/(main)/billing/hooks/use-billing.ts
+  s_277643cb346500::t_2553a9d6d437e9 8-11,120-123,127
+apps/dashboard/public/ai/Ai2.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/docs/app/(home)/startups/startups-form.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-374
+packages/notifications/src/__tests__/alarm-config.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 21,40,42
+selfhost.env.example
+  s_277643cb346500::t_2553a9d6d437e9 23-26,30-36
+apps/api/src/routes/public/scan.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-231
+apps/insights/src/generation.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-4,159,203,317,367-369,416-418,420-421,495,524-526,594-598,636-645,668,703,721-729,736-740,759-775,779-783,785,804-815,860-869,889-893,903-911,980-986,995-1008,1023-1038,1276,1444-1445,1447-1454,1471-1482,1505,1512,1531,1546,1562,1629-1688,1690-1708,1710-1719,1721-1725,1727,1729-1762,1764,1766-1768,1771,1774-1782,1786-1803,1813
+packages/rpc/src/root.ts
+  s_277643cb346500::t_2553a9d6d437e9 10,41
+packages/ai/src/query/builders/ai-agents.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-429
+apps/insights/src/evidence-snapshot.ts
+  s_277643cb346500::t_2553a9d6d437e9 337-351,360,374,435,447
+packages/services/src/import/providers/posthog.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-156
+apps/insights/src/evals/README.md
+  s_277643cb346500::t_2553a9d6d437e9 41
+packages/ai/src/ai/tools/github-tools.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 456-460
+packages/services/package.json
+  s_277643cb346500::t_2553a9d6d437e9 13,25,28
+packages/ui/src/lib/uptime/heatmap-days.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,9,17,19,45-46
+apps/docs/public/social/upstash.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/test/e2e/STANDARDS.md
+  s_277643cb346500::t_2553a9d6d437e9 58
+apps/docs/app/(home)/data-policy/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 328-341,365-384,391-417
+packages/notifications/package.json
+  s_277643cb346500::t_2553a9d6d437e9 12
+packages/rpc/src/routers/status-page.ts
+  s_277643cb346500::t_2553a9d6d437e9 19,21,26-28,31,35-41,45-55,88-91,94-103,105-110,112-117,121-122,125-128,131-133,135-138,141,144-150,163,175,178-180,182,186,190-197,220,222,227-234,279-286,291,303-310,314-320,322,331-338,341-343,347-353,355,362-372,380,384-391,414-421,514-521,550-561,565,569-576,605-612,641-642,644-646,650,654-661,680,717,744-751,761-764,794-801,804-807,817-824
+apps/docs/public/social/openai.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/app/(main)/websites/[id]/_components/tabs/overview-tab.tsx
+  s_277643cb346500::t_2553a9d6d437e9 30,145
+apps/slack/tsconfig.json
+  s_277643cb346500::t_2553a9d6d437e9 7
+packages/shared/src/utils/referrer.ts
+  s_277643cb346500::t_2553a9d6d437e9 15-21,135-137
+apps/dashboard/components/status-pages/status-page-row.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,7,24-26,34-96,178,181-182,195-198
+packages/db/src/clickhouse/migrations/20260925_ai_traffic_agent_columns.sql
+  s_277643cb346500::t_2553a9d6d437e9 1-7
+packages/ui/src/components/theme-toggle.tsx
+  s_277643cb346500::t_2553a9d6d437e9 9-13,29
+packages/ai/src/ai/mcp/mcp-utils.ts
+  s_277643cb346500::t_2553a9d6d437e9 14,180,265,272
+packages/rpc/src/routers/status-page-data.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-464
+apps/docs/content/docs/sdk/meta.json
+  s_277643cb346500::t_2553a9d6d437e9 17
+packages/ai/src/ai/mcp/oauth-website-access.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-120
+apps/docs/app/(home)/api/types.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-34
+packages/ai/src/query/builders/realtime.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,388
+apps/dashboard/public/ai/DeepSeek.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/components/ai-elements/code-block.tsx
+  s_277643cb346500::t_2553a9d6d437e9 13,21,31
+packages/ai/src/ai/tools/scrape-page.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 17,20,24-28,57,59
+packages/db/src/clickhouse/schema/analytics/engagement/engagement_spans.sql
+  s_277643cb346500::t_2553a9d6d437e9 1-37
+infra/railway-template.md
+  s_277643cb346500::t_2553a9d6d437e9 63,75,157,193
+apps/basket/src/lib/event-service.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 112,439-485
+packages/db/src/clickhouse/purge.ts
+  s_277643cb346500::t_2553a9d6d437e9 7,16-19
+apps/dashboard/app/(main)/home/hooks/use-pulse-status.ts
+  s_277643cb346500::t_2553a9d6d437e9 7-9,12-16
+apps/api/src/routes/public/scan.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-173
+packages/ai/src/query/batch-executor.ts
+  s_277643cb346500::t_2553a9d6d437e9 3,316,362,388,527,546,603,615
+packages/rpc/src/lib/autumn-client.ts
+  s_277643cb346500::t_2553a9d6d437e9 32-41
+apps/dashboard/lib/ai-components/renderers/mini-map.tsx
+  s_277643cb346500::t_2553a9d6d437e9 137
+apps/docs/lib/comparison-config.ts
+  s_277643cb346500::t_2553a9d6d437e9 6,558
+apps/dashboard/lib/uptime/uptime-heatmap.tsx
+  s_277643cb346500::t_2553a9d6d437e9 8,63-72,77-80
+apps/dashboard/components/events/custom-events/events-trend-chart.tsx
+  s_277643cb346500::t_2553a9d6d437e9 5,511-514
+apps/uptime/src/actions.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,11,14,56-58,63,97,99-100,103,105,112,117,147-152,158-165,167-169,171,178,180,186-190,196-197,206-207,209,214,252-253,267,275,279-282,285,290-295,319-330,333-337,339-340,343,392,419,442-443
+apps/dashboard/test/e2e/README.md
+  s_277643cb346500::t_2553a9d6d437e9 32
+apps/api/src/schemas/query-schemas.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-107
+apps/dashboard/components/providers/selfhost-billing.test.tsx
+  s_277643cb346500::t_2553a9d6d437e9 29-30,69-70,92-118
+apps/dashboard/app/(main)/billing/components/usage-row.tsx
+  s_277643cb346500::t_2553a9d6d437e9 9,35-47,50,52,55,65,129-130,139,143,162,167,174,215-217,219-220,223
+packages/devtools/src/ui/store.ts
+  s_277643cb346500::t_2553a9d6d437e9 274,277,294-295,297-300
+apps/docs/instrumentation-client.ts
+  s_277643cb346500::t_2553a9d6d437e9 9
+apps/dashboard/components/icon.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-20
+apps/dashboard/public/ai/ChatGPT.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/app/(auth)/login/verification-needed/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,18,75-78
+packages/shared/src/stripe-webhooks.ts
+  s_277643cb346500::t_2553a9d6d437e9 20
+packages/ai/src/ai/tools/github-tools.ts
+  s_277643cb346500::t_2553a9d6d437e9 1,110,125-128,130-137,139,141-153,175-195,242-244,378-380,412-420,447-449,519-521,625,636,639,674-676,756-758,849-851
+apps/basket/src/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 17,93,197-201
+.github/workflows/dashboard-e2e.yml
+  s_277643cb346500::t_2553a9d6d437e9 40,93,97-100,106-111,122
+packages/rpc/src/routers/business-context.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 29,212,692
+packages/redis/import-queue.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-59
+apps/status/app/_components/branding.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4
+packages/shared/src/lists/referrers.ts
+  s_277643cb346500::t_2553a9d6d437e9 2704-2805,2817-2822,2828-2845,2858-2932,2934-3059
+apps/api/src/routes/public/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 8-14,33,39
+apps/basket/src/utils/origin-ip-validation.ts
+  s_277643cb346500::t_2553a9d6d437e9 192-194
+apps/api/src/integration/uptime-handlers.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 280-303
+packages/rpc/src/procedures/with-workspace.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,19-32,491,493,550-562,564-565
+apps/dashboard/app/(main)/websites/[id]/revenue/_components/revenue-settings-sheet.tsx
+  s_277643cb346500::t_2553a9d6d437e9 12-19,38-40,44-84,146-155,492-502,562-570
+apps/basket/src/lib/api-key.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-73
+packages/services/src/import/pipeline.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-720
+packages/ai/src/query/builders/uptime.ts
+  s_277643cb346500::t_2553a9d6d437e9 22,194
+packages/notifications/src/__tests__/providers/email.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 22,34,43-55,57-62,65,75,77,80-81,83,89-90
+apps/dashboard/components/agent/agent-messages.tsx
+  s_277643cb346500::t_2553a9d6d437e9 27,36,51,54-62,73-127,169-170,177,180,222,227,230,233,238,242-249,288,404
+apps/slack/src/agent/agent-client.ts
+  s_277643cb346500::t_2553a9d6d437e9 113
+apps/dashboard/components/agent/agent-commands.ts
+  s_277643cb346500::t_2553a9d6d437e9 15,24,27,33,42,51,54,60,63,69,78
+apps/dashboard/components/charts/simple-metrics-chart.tsx
+  s_277643cb346500::t_2553a9d6d437e9 26,46,91
+apps/dashboard/app/(main)/insights/_components/investigation-settings.tsx
+  s_277643cb346500::t_2553a9d6d437e9 154,156
+apps/docs/app/(home)/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 8,185,187,191-195,197-201,206,211
+packages/validation/src/schemas/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 6
+apps/dashboard/app/(main)/websites/[id]/settings/import/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-362
+packages/db/src/clickhouse/sql-validation.ts
+  s_277643cb346500::t_2553a9d6d437e9 6,52-81
+packages/shared/src/agent-discovery.ts
+  s_277643cb346500::t_2553a9d6d437e9 245-247,304
+packages/scan/quality.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-961
+packages/shared/src/constants/deep-link-apps.ts
+  s_277643cb346500::t_2553a9d6d437e9 194-196,198-199,201-202
+packages/ui/src/lib/uptime/heatmap-strip.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-4,8,30,44-49,154-159,167,197,244-259,308-315,350-352,357,362,364,371,373-374,376,378-395,397-408,410-412,416-418,420,423-424,451,474,478-492,503,507-510,521
+apps/dashboard/app/(main)/websites/[id]/_components/utils/analytics-helpers.tsx
+  s_277643cb346500::t_2553a9d6d437e9 31-52
+apps/dashboard/app/(main)/onboarding/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,7-10,56-59,175-177,183,192-199,277-278,280,283
+apps/docs/content/docs/Integrations/payments.mdx
+  s_277643cb346500::t_2553a9d6d437e9 37-39,121-129,138-139
+apps/insights/src/evals/quality.ts
+  s_277643cb346500::t_2553a9d6d437e9 29,83-90,104,110-111,118-119,131,422-423,427-433,462,708,712,846,959,1076-1079,1083,1121,1123,1160-1196,1240,1248,1361,1370,1556,1558,1711-1713,1764,1798-1803,1866,1892,1901-1905,1932,1940-1943,2041-2058,2060,2289-2298
+packages/rpc/src/routers/insights.selfhost.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 76-77,102
+apps/slack/src/slack/installations.ts
+  s_277643cb346500::t_2553a9d6d437e9 22
+apps/dashboard/public/ai/Copilot.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/ui/src/lib/uptime/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-2
+apps/api/src/integration/with-workspace.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 3,830-843
+packages/auth/src/oauth-schema.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-86
+apps/slack/src/slack/run-handler.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 145-151,176,190
+apps/dashboard/components/layout/navigation/navigation-config.tsx
+  s_277643cb346500::t_2553a9d6d437e9 6,12,139,141-148,153-158,255-265
+packages/redis/uptime-queue.ts
+  s_277643cb346500::t_2553a9d6d437e9 31,33
+packages/rpc/src/routers/websites-chart.ts
+  s_277643cb346500::t_2553a9d6d437e9 70,73,76,87
+apps/docs/app/(home)/changelog/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 176
+apps/basket/src/lib/api-key.ts
+  s_277643cb346500::t_2553a9d6d437e9 10,38-78
+packages/ai/src/ai/mcp/tool-context.ts
+  s_277643cb346500::t_2553a9d6d437e9 11,13,29,34-37,40,42,51-61,78,248
+apps/insights/src/generation-billing.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 437
+apps/dashboard/public/ai/Parallel.svg
+  s_277643cb346500::t_2553a9d6d437e9 1-12
+apps/dashboard/app/(main)/monitors/status-pages/[id]/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 10-12,19,29,41,56,62,70,87,111,115,123-139,305,329,331,333-334
+apps/dashboard/public/ai/Cursor.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/app/(main)/billing/layout.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4,8
+packages/notifications/src/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 9
+apps/slack/src/slack/blocks.ts
+  s_277643cb346500::t_2553a9d6d437e9 186,214-217
+apps/dashboard/app/(main)/billing/components/billing-controls-card.tsx
+  s_277643cb346500::t_2553a9d6d437e9 30,62,79,94
+packages/ai/src/query/builders/profiles.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,543-544,571-595,609-614,623-625,630-632,792-794,835,1240
+packages/rpc/src/routers/goals.ts
+  s_277643cb346500::t_2553a9d6d437e9 147,279-282,333-336
+packages/rpc/src/routers/status-page.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 7-16,114-139
+.github/workflows/ci.yml
+  s_277643cb346500::t_2553a9d6d437e9 26,32,45,49,58-60,131,137,142,157,162,170,173,180-188,190,195-196,201-203,207-213
+packages/ai/src/query/trait-filters.ts
+  s_277643cb346500::t_2553a9d6d437e9 7,54,85
+apps/uptime/src/lib/producer.ts
+  s_277643cb346500::t_2553a9d6d437e9 8,11,15,23,25-26,31-32,35-43
+init.Dockerfile
+  s_277643cb346500::t_2553a9d6d437e9 1-8,13-14,16-17,21
+apps/dashboard/app/(main)/invitations/[id]/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-4,320
+apps/dashboard/components/analytics/event-limit-indicator.tsx
+  s_277643cb346500::t_2553a9d6d437e9 29-31,33,37
+packages/db/src/clickhouse/verify.ts
+  s_277643cb346500::t_2553a9d6d437e9 29
+apps/docs/content/docs/privacy/index.mdx
+  s_277643cb346500::t_2553a9d6d437e9 14-16
+apps/uptime/src/sync-schedulers.ts
+  s_277643cb346500::t_2553a9d6d437e9 15,17-23,25-26,29-41,43-52,58-59
+packages/ai/src/query/builders/engagement.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,5-218,434
+packages/ai/src/query/builders/sessions.ts
+  s_277643cb346500::t_2553a9d6d437e9 11,536
+apps/api/src/routes/mcp.ts
+  s_277643cb346500::t_2553a9d6d437e9 10-12,20-50,72-81
+apps/dashboard/components/status-pages/status-page-sheet.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,10-13,15,27,29,78-116,129-132,138-141,157-168,192-194,196,204-215,223,229,231,233-235,243,249-250,254-263,266,269,272,276,278,281,363-390,392-394,448-451,463
+apps/docs/components/landing/ai-section.tsx
+  s_277643cb346500::t_2553a9d6d437e9 27-45,356,363-377,384
+apps/dashboard/app/(main)/settings/notifications/_components/email-preferences-card.tsx
+  s_277643cb346500::t_2553a9d6d437e9 187-188
+apps/dashboard/app/(main)/websites/[id]/_components/tabs/overview/_components/geo-map-section.tsx
+  s_277643cb346500::t_2553a9d6d437e9 77
+packages/ai/src/query/builders/geo.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,220
+packages/ai/src/query/builders/revenue.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-5,8,194-204,215,246,251,256,263,268-269,272-274,276,281,284-302,388-390,392,400-403,406-407,415-416,449-454,496-506,632,655,657,670,928,976,996,1024,1033,1053,1078,1104,1130,1154,1178,1202,1237-1290,1292,1316,1340,1364,1388,1426-1431,1442
+apps/dashboard/app/(main)/monitors/_components/use-filtered-monitors.ts
+  s_277643cb346500::t_2553a9d6d437e9 5-6,9-10,12-17,19-27
+apps/insights/src/delivery.ts
+  s_277643cb346500::t_2553a9d6d437e9 17,161,331,333
+apps/dashboard/app/(main)/insights/[id]/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 10,13,21-22,24-25,28,31,34,45-48,81-88,164-166,168-169,171-219,223-303
+apps/insights/src/resume-clarification.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 92,131
+apps/dashboard/test/e2e/fixtures.ts
+  s_277643cb346500::t_2553a9d6d437e9 39,41-42,47,82
+apps/docs/public/social/quiver.svg
+  s_277643cb346500::t_2553a9d6d437e9 1-11
+packages/shared/src/utils/bot-detection/__tests__/detector.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,6,78-79,375-391,396-459
+.env.example
+  s_277643cb346500::t_2553a9d6d437e9 25,80-92
+packages/sdk/README.md
+  s_277643cb346500::t_2553a9d6d437e9 133
+packages/auth/src/selfhost-config.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 35-40,52-58,73-84,152-159
+packages/db/src/clickhouse/codegen.ts
+  s_277643cb346500::t_2553a9d6d437e9 27-29,31-32,34,36-38,60-62
+apps/insights/src/business-context.ts
+  s_277643cb346500::t_2553a9d6d437e9 221-232,265,375,394-399,402,406,411,414-420,422-426,429-432,438-440
+apps/insights/src/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 7,11-14,20,25,72,100,102,119,122,130,137-174
+packages/scan/LICENSE
+  s_277643cb346500::t_2553a9d6d437e9 1-21
+packages/ai/src/query/simple-builder.bench.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,24,45,62
+packages/mapper/tsconfig.json
+  s_277643cb346500::t_2553a9d6d437e9 4
+apps/dashboard/public/ai/Phind.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+tsconfig/default.json
+  s_277643cb346500::t_2553a9d6d437e9 8,10
+packages/shared/src/insights.ts
+  s_277643cb346500::t_2553a9d6d437e9 204-206,209-211,988,1014-1040,1047-1052,1080
+apps/dashboard/app/(main)/home/_components/monitors-section.tsx
+  s_277643cb346500::t_2553a9d6d437e9 5-10,13,18,25,30,57,60-66,116
+packages/tracker/src/core/tracker.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,10,48-55,57,67-85,106-112,123,126,130,172-176,438-439,451-461,466,479-481,604-605,614-618,626-627,669,707,715-717,725-727,731-733,735,737,778
+apps/basket/src/lib/producer.ts
+  s_277643cb346500::t_2553a9d6d437e9 6-7,9-15,17-31,33-58,74,102,112,128-129,134-143,148-164,166-173,175,181,186-187,189-191,193-201,205-210,233-236,265,269-274,280,282,286-295,307-310,312-314,332-335,337,351,377,399-400,408-414,416-428,430-436,439-480,482-497,500-501,504,506-509,511-512,514-515,517-518,521-522,530,537-538,541-545,547,552-554,557-561,563-564,568-569,573,575-576,583-586,588,593,600,602,604,612-630,633,635-654,656,661-672,675-689,695-721,723-750,752-781,784-785,798-803,807-824,828-829,834,838-839,846-848,859-861,868,870,879-883,885,888,896,899-900,902-907,909-910,915,918-920,924,981,997,1003,1009-1022,1025
+apps/slack/src/slack/run-handler.ts
+  s_277643cb346500::t_2553a9d6d437e9 250
+apps/docs/content/docs/sdk/node.mdx
+  s_277643cb346500::t_2553a9d6d437e9 165-173
+apps/insights/src/resume.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,14,21,40,44,97-101,105,118,285,330,397-407,584-588
+packages/notifications/src/alarm-config.ts
+  s_277643cb346500::t_2553a9d6d437e9 91-92,103,134,148
+packages/shared/src/api-scopes.ts
+  s_277643cb346500::t_2553a9d6d437e9 16-19
+packages/shared/src/stripe-webhooks.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 8-10
+apps/insights/src/delivery.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 6
+packages/rpc/src/services/uptime-lifecycle.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 310,319-322,325,327-333,335,337
+packages/ai/src/query/builders/summary.ts
+  s_277643cb346500::t_2553a9d6d437e9 5,379
+packages/scan/package.json
+  s_277643cb346500::t_2553a9d6d437e9 1-51
+packages/ai/src/ai/tools/scrape-page.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 6,20-23,50,55-56,58,80,108,121-127,132-152,155,186,211-215,218,231,299,303,306-318,322,398,402-403,407-425,480,489
+apps/api/src/routes/health.ts
+  s_277643cb346500::t_2553a9d6d437e9 2-4,8-62,104-139
+apps/dashboard/app/(main)/monitors/status-pages/[id]/_components/incidents-tab.tsx
+  s_277643cb346500::t_2553a9d6d437e9 16-17,19,28-31,45,70-79,106,112,119-120,137,139,162
+apps/dashboard/components/website-dialog.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-4,116
+apps/uptime/src/worker.ts
+  s_277643cb346500::t_2553a9d6d437e9 1,7,22,26-27,29-30,43,50-52,60-63,65-84,87-90,97-98,101-111,116-118,131-139,141-146,173,177-181,184-186,190,197,202-205,225-244,251-267,269-270,273,275-307,312,317,335-337,340,345,348-352,355-383,393,395,425-426,428-437,442-444,447,449,451-476,478-482,484-487,490,492-528,531,533-550,552-553,555,571-574,576,578-594,596-612,634,636,640,654-659,661-662,664-669,675,681,686-690,692-707,709-725
+packages/scan/README.md
+  s_277643cb346500::t_2553a9d6d437e9 1-63
+packages/rpc/src/routers/organizations.ts
+  s_277643cb346500::t_2553a9d6d437e9 18,117-120,362,446
+apps/docs/lib/sitemap-generator.ts
+  s_277643cb346500::t_2553a9d6d437e9 40
+apps/dashboard/app/(auth)/auth-capabilities.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-39
+apps/insights/src/agent.ts
+  s_277643cb346500::t_2553a9d6d437e9 102-103,134-143,168-171,178,194-195,197,202-207,214,221-222,237,245,314-317,395-398,438,687-691,695-696,840,854,857,863,865,878,881,886-888,891-893,948,956-961,997,1112-1136,1140-1141,1144,1288-1293,1332-1350,1352,1355-1377,1379,1382-1401,1403,1406-1428,1440,1545,1804-1811,1823,1835,1841,1847,1922,1967,1988,1990,1995,2048-2072,2092-2096,2147-2148,2236-2245,2252,2254,2259-2260,2340,2355-2359,2362-2366,2368,2371,2373-2375,2394,2396,2400,2407,2418,2427,2457-2458,2484,2500-2513,2576,2581-2582,2590,2592,2601,2604-2608,2613-2614,2617,2641,2730-2734
+packages/rpc/src/routers/flags.ts
+  s_277643cb346500::t_2553a9d6d437e9 628,644-645,663,673,676-681,684,709,721,762,768-771,843,849,961-964,1040,1046,1082-1085
+apps/dashboard/app/(main)/onboarding/_components/step-explore.tsx
+  s_277643cb346500::t_2553a9d6d437e9 27,44-45,47,50,55-56,58,61,64-85,93,95,132-146
+apps/dashboard/components/table/data-table.tsx
+  s_277643cb346500::t_2553a9d6d437e9 104-107,129,151
+apps/dashboard/next.config.ts
+  s_277643cb346500::t_2553a9d6d437e9 17-23,25-37,39-41,89-99,131-135
+packages/services/src/import/runner.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-90
+apps/dashboard/playwright.config.ts
+  s_277643cb346500::t_2553a9d6d437e9 6-11,18,27,55,57,60-61
+apps/api/src/routes/public/flags.ts
+  s_277643cb346500::t_2553a9d6d437e9 158-163,199-203,232-235,255-259,748-753,761,765-768,910,1036
+apps/dashboard/app/(main)/billing/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 395-396,627
+apps/dashboard/app/api/auth/[...all]/route.ts
+  s_277643cb346500::t_2553a9d6d437e9 5,9,40-42
+packages/rpc/src/routers/status-page-schemas.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-99
+docker-compose.selfhost.yml
+  s_277643cb346500::t_2553a9d6d437e9 31-35,129,155,183-198,211,222
+apps/insights/src/ai-agent-detection.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-67
+packages/ai/src/ai/mcp/business-context-delivery.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 87,91,195,767-793
+apps/docs/app/(home)/pricing/pricing-faq.tsx
+  s_277643cb346500::t_2553a9d6d437e9 25,30
+apps/dashboard/app/(main)/settings/account/sections/two-factor-dialog.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-4,130-133,140,160,176
+apps/dashboard/app/payment/success/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-5,12-19
+packages/scan/quality/cases.json
+  s_277643cb346500::t_2553a9d6d437e9 1-4312
+apps/docs/app/(home)/privacy/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 139-141,251-254
+apps/docs/content/docs/dashboard.mdx
+  s_277643cb346500::t_2553a9d6d437e9 269-271
+apps/status/app/[slug]/_components/monitor-card-interactive.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,7-11,22-23,29-43,46-47,57,71,83-92,94-100,106-107,113-147
+apps/status/app/sitemap.ts
+  s_277643cb346500::t_2553a9d6d437e9 8,10-15
+apps/docs/app/api/startups/submit/route.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-162
+packages/redis/cache-invalidation.ts
+  s_277643cb346500::t_2553a9d6d437e9 51,57,387-388
+apps/dashboard/next-config.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 43-48,54-55,72-79
+packages/db/src/e2e-db-lifecycle.ts
+  s_277643cb346500::t_2553a9d6d437e9 12-13,98-100
+apps/dashboard/proxy.ts
+  s_277643cb346500::t_2553a9d6d437e9 41
+apps/dashboard/lib/dashboard-navigation-actions.ts
+  s_277643cb346500::t_2553a9d6d437e9 95
+packages/scan/src/cli.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-96
+apps/docs/components/sidebar-content.tsx
+  s_277643cb346500::t_2553a9d6d437e9 257-260,380-383
+packages/services/src/import/pipeline.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-221
+packages/rpc/src/routers/revenue.ts
+  s_277643cb346500::t_2553a9d6d437e9 3,67-123,168-177,193-196
+packages/tracker/src/plugins/interactions.ts
+  s_277643cb346500::t_2553a9d6d437e9 34-67,101,133-137,149,151,173,185-188,207,215,221
+packages/services/src/import/providers/simple-analytics.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-146
+packages/ai/src/ai/tools/utils/oauth-token.ts
+  s_277643cb346500::t_2553a9d6d437e9 14,51,70,75,87-88,97,109,121
+apps/dashboard/components/monitors/monitor-sheet.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-8,10,13,19-23,38-53,58-61,131-134,136,138-141,186,188,193,212,217,228,305,388,404
+apps/dashboard/public/ai/Firecrawl.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/shared/src/utils/bot-detection/ai-agents.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-260
+packages/rpc/src/routers/feedback.ts
+  s_277643cb346500::t_2553a9d6d437e9 261-263
+packages/shared/src/uptime-status.ts
+  s_277643cb346500::t_2553a9d6d437e9 3-15
+README.md
+  s_277643cb346500::t_2553a9d6d437e9 50-51,58-63,66-68,98,104-107,118
+apps/docs/components/landing/databunny-demo-visuals.tsx
+  s_277643cb346500::t_2553a9d6d437e9 105
+apps/dashboard/public/ai/Cloudflare.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/uptime/src/worker.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 3-9,48,52,57-58,61-62,94,108-111,115,128-130,148-151,154,156-160,166-168,177-183,195,199,202-203,206-207,223-232,260,287-291,311-312,323-346,351,353-357,361-391,394-407,433-434,437,440,452-455,470-471,473,488-489,491,505-506,508,533,549-550,563,578,591-592,596,598-622,639-645,650-652,657
+apps/dashboard/components/ai-elements/tool.tsx
+  s_277643cb346500::t_2553a9d6d437e9 8-11,15,125-158
+packages/ai/src/ai/mcp/tool-context.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 44-48,87-92,98-103,108-113,127-132
+apps/basket/src/routes/webhooks/shared.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,10-46
+apps/dashboard/public/ai/Amazon.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/app/(main)/insights/_components/investigations-access-notice.tsx
+  s_277643cb346500::t_2553a9d6d437e9 6,40-42,45
+apps/dashboard/components/providers/billing-provider.tsx
+  s_277643cb346500::t_2553a9d6d437e9 60,62,81-82,136,147-148,311-312
+apps/insights/src/observations.ts
+  s_277643cb346500::t_2553a9d6d437e9 463,468,473-474,487,492-510
+apps/uptime/src/uptime-transition-alerts.ts
+  s_277643cb346500::t_2553a9d6d437e9 16,22-32,51,54,77,82-84,88-91,100-102,177-189,204-205,230,232-234,241-243,251-255,268-275,281-300,302-303,305-315,317-344,397-403,409,412,414-429,431-442,445-448,450-467,469-471,473-476,478,480-486,488-491,493-496,498-511,513-517,519-523,525-531,533-538,540-545,547-580,583-606,609-657
+apps/dashboard/public/ai/Tavily.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/public/ai/Gemini.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/shared/src/utils/bot-detection/well-known-bots.json
+  s_277643cb346500::t_2553a9d6d437e9 1-18636
+packages/notifications/src/providers/email.ts
+  s_277643cb346500::t_2553a9d6d437e9 9-23,44
+apps/dashboard/app/(auth)/consent/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-143
+packages/rpc/src/orpc.ts
+  s_277643cb346500::t_2553a9d6d437e9 17,114
+apps/dashboard/app/public/public-dashboard-constants.ts
+  s_277643cb346500::t_2553a9d6d437e9 3-5
+apps/dashboard/app/(main)/websites/[id]/agents/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-1079
+packages/ai/src/ai/agents/analytics.ts
+  s_277643cb346500::t_2553a9d6d437e9 9,22-34,57-60
+apps/docs/public/social/context-dev.svg
+  s_277643cb346500::t_2553a9d6d437e9 1-21
+packages/shared/src/uptime.ts
+  s_277643cb346500::t_2553a9d6d437e9 33-70
+packages/shared/src/utils/bot-detection/types.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-29,51
+apps/docs/app/(home)/pricing/_pricing/table.tsx
+  s_277643cb346500::t_2553a9d6d437e9 174-192,194-200
+packages/tracker/tests/privacy.spec.ts
+  s_277643cb346500::t_2553a9d6d437e9 1,200-235
+apps/dashboard/app/(main)/monitors/_components/monitors-search-bar.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,16-17,20,23-24,26,28-29,32,35,39,41-42,50,66,73,82,85-91,108
+apps/api/tsconfig.json
+  s_277643cb346500::t_2553a9d6d437e9 8
+apps/dashboard/app/(main)/monitors/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 5,18-20,23,26-43,60,66,69,72,85-93,96-103,139,164,168,170,173,179-183
+apps/dashboard/app/(main)/billing/components/investigation-topup-card.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-4,11,50-53,154,156-158,160-163
+packages/ai/src/query/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 3,9-14,66-67,80,99-100,111-114
+apps/dashboard/components/monitors/monitor-row.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,6,10-15,17-20,33,37-43,46-50,52-59,63-66,70-73,77,81-84,88,91-98,100-101,103-104,106-142,144,146-154,156-159,178-179,186-187,196-197,205-206,214-217,219-225,227-245,247-250,254,257,260-263,265-270,326,335-338,395,402,406
+packages/ai/src/query/builders/stripe-revenue.e2e.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 305,437-440,723-746,861-863,866,939
+packages/rpc/src/routers/uptime.ts
+  s_277643cb346500::t_2553a9d6d437e9 12,32-45,59,61,64-65,113-120,122,133,135-137,139-145,149-156,187-194,223-230,251-264,267-273,278-280,310-317,337-345,364-371,383,390-397,428-435,485-492,509-516,533
+packages/db/src/seed.ts
+  s_277643cb346500::t_2553a9d6d437e9 69-77,95,205,234,290
+apps/insights/src/funnel-detection.ts
+  s_277643cb346500::t_2553a9d6d437e9 26,73-77,543-556,558-562,566,569-573,577-582,584-588,591-608,622,655,674-682,685,744-766,769,790,804-805,807-809,821,853-860
+packages/rpc/src/routers/billing.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 89
+apps/dashboard/public/ai/Exa.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/insights/src/ai-agent-detection.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-188
+apps/insights/src/measurement-plan.ts
+  s_277643cb346500::t_2553a9d6d437e9 156-158,163-165,200,206
+apps/links/src/lib/producer.ts
+  s_277643cb346500::t_2553a9d6d437e9 7-8,17,248-256,308-311
+apps/api/src/billing/autumn.ts
+  s_277643cb346500::t_2553a9d6d437e9 25-30,35-44,195-199,201-204,212,214,217-223
+scan.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-2
+apps/insights/src/scheduler.ts
+  s_277643cb346500::t_2553a9d6d437e9 28,32,34,75-79,81,83,85-86,88-93,96-97,99-100
+packages/shared/src/tracking-blocks.ts
+  s_277643cb346500::t_2553a9d6d437e9 128-134
+packages/ai/src/query/builders/errors.ts
+  s_277643cb346500::t_2553a9d6d437e9 7,834
+packages/ai/src/query/simple-builder.ts
+  s_277643cb346500::t_2553a9d6d437e9 1217-1220,1223
+packages/db/src/clickhouse/revenue.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-21
+packages/db/src/clickhouse/apply.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,13-14,19,51-64
+packages/shared/src/types/features.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 12
+CLAUDE.md
+  s_277643cb346500::t_2553a9d6d437e9 200-201,206
+packages/rpc/src/routers/billing.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,45,54,90,96-97
+apps/links/src/lib/producer.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 166-201
+infra/ingest/vector.yaml
+  s_277643cb346500::t_2553a9d6d437e9 17,46,153-172
+apps/links/src/index.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-163
+apps/dashboard/components/agent/agent-input.tsx
+  s_277643cb346500::t_2553a9d6d437e9 87-96
+apps/dashboard/public/ai/Meta.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/public/ai/Cohere.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/insights/src/resume-clarification.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 238-243,251-254,258-260,262-282
+packages/rpc/src/routers/links.ts
+  s_277643cb346500::t_222dd6c714721a 14,233-235
+packages/test/src/db.ts
+  s_277643cb346500::t_2553a9d6d437e9 25-31
+.github/workflows/dependency-review.yml
+  s_277643cb346500::t_2553a9d6d437e9 16,27
+packages/rpc/src/procedures/with-workspace.ts
+  s_277643cb346500::t_2553a9d6d437e9 14,132
+packages/ai/src/ai/mcp/define-tool.ts
+  s_277643cb346500::t_2553a9d6d437e9 57-58,281
+dashboard.Dockerfile
+  s_277643cb346500::t_2553a9d6d437e9 24-25
+packages/shared/src/utils/bot-detection/user-agent.ts
+  s_277643cb346500::t_2553a9d6d437e9 5-9,18,21-22,60
+apps/docs/public/social/coderabbit.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/components/agent/new-chat-button.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4-12,14-19,43-109
+apps/dashboard/lib/investigation-purchase.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 41
+apps/basket/src/routes/basket.ts
+  s_277643cb346500::t_2553a9d6d437e9 12,22,327-375
+apps/dashboard/app/(main)/organizations/settings/destructive/hooks/use-website-transfer.ts
+  s_277643cb346500::t_2553a9d6d437e9 3-4,21
+apps/dashboard/components/icon.tsx
+  s_277643cb346500::t_2553a9d6d437e9 68-104,108-121,175-177,212,219-225,231,245-250,258,299-323
+packages/db/src/clickhouse/migrations/20260926_ai_traffic_format.sql
+  s_277643cb346500::t_2553a9d6d437e9 1-4
+apps/dashboard/components/autumn/pricing-table.tsx
+  s_277643cb346500::t_2553a9d6d437e9 292-313,315-324
+apps/dashboard/app/(main)/monitors/status-pages/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 5,15,25-27,30-43,83,87,90,113-121,124-129,132,169,194,198,200,203
+.github/workflows/docker-publish.yml
+  s_277643cb346500::t_2553a9d6d437e9 41,47,63,75,112,115,121,123,170,196,229
+packages/scan/src/terminal.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-222
+apps/api/src/schemas/query-schemas.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,5,47-48,84-85
+apps/api/src/routes/query.ts
+  s_277643cb346500::t_2553a9d6d437e9 43,68,202,300-307,309-314,939-940,1004,1054-1055,1157-1158,1166,1168-1181,1449-1450,1486-1487
+packages/db/src/drizzle/schema/auth.ts
+  s_277643cb346500::t_2553a9d6d437e9 5,325-330,441-767
+apps/dashboard/app/(main)/settings/notifications/_components/alarm-sheet.tsx
+  s_277643cb346500::t_2553a9d6d437e9 11,22-23,25,54-88,101-112,115-131,146-153,158-163,178,182,199-210,216,227,236-247,261-266,272-274,313,411-418,427,429,443,454,471,473-474,491,509-534
+packages/db/src/clickhouse/client.ts
+  s_277643cb346500::t_2553a9d6d437e9 10
+apps/docs/content/docs/sdk/ai-agents.mdx
+  s_277643cb346500::t_2553a9d6d437e9 1-114
+packages/ai/src/query/builders/vitals.ts
+  s_277643cb346500::t_2553a9d6d437e9 99,317
+apps/docs/components/footer.tsx
+  s_277643cb346500::t_2553a9d6d437e9 19
+apps/basket/src/lib/event-service.ts
+  s_277643cb346500::t_2553a9d6d437e9 5,8-12,636-706
+packages/ui/src/lib/uptime/latency-chart.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,39-41,46,50,74,80-81,88-94,99,103,120,130-134,137-138,152,154,158,165,168-170
+apps/basket/src/lib/producer.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-4,6,8,11-18,23,26,28-57,60-137,140-173,176-191,193-223,225,227,231-232,235-238,240-270,274,278-670,672-680,683-701
+apps/insights/src/investigation.ts
+  s_277643cb346500::t_2553a9d6d437e9 11,87-94,147,154,289-295
+apps/dashboard/test/e2e/run-local.sh
+  s_277643cb346500::t_2553a9d6d437e9 45,75
+apps/docs/content/docs/api/index.mdx
+  s_277643cb346500::t_2553a9d6d437e9 104-106
+apps/uptime/src/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 23,40,45,59,61-70,72-92,94-100,113-119,170,191-210,212-215,217-220,222,226-233,240,265,268
+apps/dashboard/app/public/investigations/[shareId]/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-178
+packages/sdk/src/agents/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-105
+apps/basket/src/lib/security.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,198-203,209-210
+packages/services/src/import/runner.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-170
+packages/rpc/src/routers/annotations.ts
+  s_277643cb346500::t_2553a9d6d437e9 277-280,306,347-350,368
+apps/insights/src/run-candidate-plan.ts
+  s_277643cb346500::t_2553a9d6d437e9 77
+packages/ai/src/query/builders/traffic.ts
+  s_277643cb346500::t_2553a9d6d437e9 83,282
+apps/docs/app/api/contact/submit/route.ts
+  s_277643cb346500::t_2553a9d6d437e9 183-184
+packages/shared/src/agent-credits.ts
+  s_277643cb346500::t_2553a9d6d437e9 20-29,34,77
+turbo.json
+  s_277643cb346500::t_2553a9d6d437e9 10,13,84-87
+apps/api/src/routes/discovery.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 6-7,10-17
+packages/db/src/clickhouse/identity.ts
+  s_277643cb346500::t_2553a9d6d437e9 11-14
+packages/ai/src/query/builders/pages.ts
+  s_277643cb346500::t_2553a9d6d437e9 6,493
+.github/workflows/release.yml
+  s_277643cb346500::t_2553a9d6d437e9 23
+packages/ai/src/query/index.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-25
+apps/slack/src/slack/slack-context.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 65-93
+packages/ai/src/ai/tools/get-data.ts
+  s_277643cb346500::t_2553a9d6d437e9 9,11,15,63,87,98-129,172,224,229-234,239,253
+apps/dashboard/public/ai/Zed.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/app/(auth)/login/magic-sent/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,16,76-79
+apps/insights/src/persistence.ts
+  s_277643cb346500::t_2553a9d6d437e9 46-47,117,162-166,171-188,388-392
+packages/ai/src/query/builders/links.ts
+  s_277643cb346500::t_2553a9d6d437e9 70,460,464,654
+apps/basket/src/routes/track.ts
+  s_277643cb346500::t_2553a9d6d437e9 1,17,19-25,48,51,54-64,445-523
+apps/docs/components/landing/links-demo-visuals.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-8,283,290,297,304,336
+apps/insights/src/jobs.ts
+  s_277643cb346500::t_2553a9d6d437e9 47,389
+packages/ai/src/ai/mcp/run-agent.ts
+  s_277643cb346500::t_2553a9d6d437e9 267-280
+apps/dashboard/public/ai/OpenCode.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/docs/public/social/vercel.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/ai/src/query/builders/custom-events.ts
+  s_277643cb346500::t_2553a9d6d437e9 35,925
+packages/env/src/app.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 8,19
+packages/rpc/src/routers/websites.ts
+  s_277643cb346500::t_2553a9d6d437e9 5-15,65-160,1202-1269
+packages/ai/src/ai/prompts/clickhouse-schema.ts
+  s_277643cb346500::t_2553a9d6d437e9 14,122-159,258-279
+apps/insights/src/evals/quality.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 22-25
+apps/slack/src/slack/slack-context.ts
+  s_277643cb346500::t_2553a9d6d437e9 5,23,26-45,47
+packages/tracker/src/core/types.ts
+  s_277643cb346500::t_2553a9d6d437e9 91-117
+apps/uptime/src/types.ts
+  s_277643cb346500::t_2553a9d6d437e9 22
+apps/dashboard/app/(main)/monitors/status-pages/[id]/_components/status-page-monitor-row.tsx
+  s_277643cb346500::t_2553a9d6d437e9 18-22,24-26,56-61,63,65-74,78,105,208-222
+apps/dashboard/public/ai/Mistral.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/uptime/src/actions.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 2
+packages/sdk/build.config.ts
+  s_277643cb346500::t_2553a9d6d437e9 12
+apps/api/package.json
+  s_277643cb346500::t_2553a9d6d437e9 7,14,26
+docker-compose.yaml
+  s_277643cb346500::t_2553a9d6d437e9 5,38
+apps/insights/src/error-customer-impact.ts
+  s_277643cb346500::t_2553a9d6d437e9 18,255-263,270,378-390,401
+apps/dashboard/public/providers/simple-analytics.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/auth/src/mcp-oauth.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-408
+apps/insights/src/detection.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 328-347,751-788,1407-1411,1438-1440,1445,1760-1764,1769-1771,1820
+packages/ai/src/query/builders/retention.ts
+  s_277643cb346500::t_2553a9d6d437e9 15,252
+apps/docs/app/(home)/startups/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-86
+apps/dashboard/app/(main)/monitors/_components/monitor-detail.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-755
+packages/scan/src/evaluate.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-224
+apps/uptime/src/uptime-transition-alerts.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,7,11,31,110-117,219-326
+apps/dashboard/public/ai/Claude.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/hooks/use-website-transfer-to-org.ts
+  s_277643cb346500::t_2553a9d6d437e9 3-4,14
+apps/dashboard/app/(main)/billing/utils/feature-usage.ts
+  s_277643cb346500::t_2553a9d6d437e9 20,42-73,78-79,86-87,91-93,95,97,99,134,139-143,154,157,173-182
+apps/basket/src/routes/webhooks/stripe.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 190,203,209,211,215-216,221,227,274,285-300,302-313,315-331,334,336-357,360,363-372,376,379-381,385-390,393-394,396-398,404,406-412,414-415,417-420,425-435,437-463,467,470-473,479,482,494,498,500-524,527,531,538-540,547-550,552-553,651,671-672,674-676,720-739
+packages/services/src/billing-lifecycle.ts
+  s_277643cb346500::t_2553a9d6d437e9 39-57,62-63,83
+apps/docs/public/social/ycombinator.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/links/src/lib/deep-link-fallback.ts
+  s_277643cb346500::t_2553a9d6d437e9 20-23,29
+packages/scan/cli.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-394
+packages/email/src/emails/usage-email-copy.test.tsx
+  s_277643cb346500::t_2553a9d6d437e9 67
+packages/validation/src/schemas/engagement.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-65
+apps/status/app/[slug]/opengraph-image.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-6,25,54,89,93,203-204
+apps/docs/app/(home)/pricing/_pricing/estimator.tsx
+  s_277643cb346500::t_2553a9d6d437e9 153,273,280-281,283
+apps/uptime/src/lib/evlog-uptime.ts
+  s_277643cb346500::t_2553a9d6d437e9 4-8,13,35,55
+packages/tracker/src/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-6,9,69-71,214-219,224-226,230,232,235,237-239,264-265,272-278,281,284,291-308,345-398,412-418,437,492,527
+packages/tracker/tests/test-utils.ts
+  s_277643cb346500::t_2553a9d6d437e9 13
+.github/workflows/codeql.yml
+  s_277643cb346500::t_2553a9d6d437e9 27,30,36
+apps/dashboard/app/(main)/settings/account/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 446
+packages/rpc/src/routers/alarms.ts
+  s_277643cb346500::t_2553a9d6d437e9 7,9-10,91-98,108,114,118-129,213-214,285-288
+apps/dashboard/public/ai/Mozilla.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/ai/src/ai/tools/search-console.ts
+  s_277643cb346500::t_2553a9d6d437e9 83-87
+apps/dashboard/test/e2e/specs/regressions/onboarding.spec.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-149
+apps/dashboard/app/(main)/billing/utils/billing-utils.ts
+  s_277643cb346500::t_2553a9d6d437e9 31-32
+apps/dashboard/public/ai/Devin.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/insights/src/route-health-detection.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 409-410,412-413
+package.json
+  s_277643cb346500::t_2553a9d6d437e9 98
+packages/email/src/emails/usage-limit-email.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1,25-30,33-56,76-92,104,108-124,143,173-175,206-209,211,213-214,216-217
+packages/validation/src/utilities.ts
+  s_277643cb346500::t_2553a9d6d437e9 34-37,41
+apps/dashboard/components/analytics/map-component.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4-5,9,13,24-27,29-31,36-37,42,45-56,58-71,73-74,76-77,90-91,94-97,104,106,109-118,122-124,127-128,130,135,138-156,163,176,179,181,194,196-197,203-212,214-215,217,220,222,226-227
+apps/api/src/routes/integrations/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 9,470-480
+apps/api/src/routes/webhooks/autumn.ts
+  s_277643cb346500::t_2553a9d6d437e9 14-20,33,263-266,504-509
+apps/docs/app/(home)/api/query-builder.ts
+  s_277643cb346500::t_2553a9d6d437e9 6-10,86-90
+apps/docs/content/docs/sdk/index.mdx
+  s_277643cb346500::t_2553a9d6d437e9 11
+packages/db/src/scripts/export-user-email-segments.ts
+  s_277643cb346500::t_2553a9d6d437e9 11,464
+packages/ai/src/query/builders/revenue.integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 15,200,1116-1507
+apps/dashboard/public/ai/Poe.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/docs/public/social/notra.svg
+  s_277643cb346500::t_2553a9d6d437e9 1-5
+apps/dashboard/app/(main)/settings/notifications/_components/notification-test-result.ts
+  s_277643cb346500::t_2553a9d6d437e9 12
+apps/dashboard/public/ai/Apple.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/app/(main)/websites/[id]/errors/_components/error-trends-chart.tsx
+  s_277643cb346500::t_2553a9d6d437e9 5,183-196
+apps/docs/public/social/supabase.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/docs/app/(home)/api/actions.ts
+  s_277643cb346500::t_2553a9d6d437e9 3,48-56
+apps/docs/lib/pricing-copy.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 120,264-266,332,342,364
+apps/links/src/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 3,74-75,216,274-286,290,342-351
+biome.json
+  s_277643cb346500::t_2553a9d6d437e9 14-15
+apps/basket/src/lib/request-validation.ts
+  s_277643cb346500::t_2553a9d6d437e9 1,154-166,280,282-288,309-322
+packages/rpc/src/routers/integrations.ts
+  s_277643cb346500::t_2553a9d6d437e9 40,65
+apps/uptime/src/lib/tracing.ts
+  s_277643cb346500::t_2553a9d6d437e9 5
+packages/ai/src/ai/mcp/agent-tools.ts
+  s_277643cb346500::t_2553a9d6d437e9 116,137,172
+packages/rpc/src/routers/target-groups.ts
+  s_277643cb346500::t_2553a9d6d437e9 138-141,159,167,187-190,209,217
+apps/dashboard/app/(main)/settings/notifications/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 15-20,23-24,37-38,41-46,52-53,56-59,63,67,70,87,97,122-132,136,152,156,189-190,192,232-237,287-290,292-297
+apps/dashboard/components/layout/overage-banner.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-77
+packages/scan/src/actions.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-2242
+packages/ai/src/query/builders/devices.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,510
+packages/rpc/src/routers/funnels.ts
+  s_277643cb346500::t_2553a9d6d437e9 79,399-402,458-461
+apps/dashboard/public/ai/Atlassian.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/db/src/clickhouse/schema/analytics/traffic/ai_traffic_spans.sql
+  s_277643cb346500::t_2553a9d6d437e9 10-16
+packages/db/src/drizzle/schema/uptime.ts
+  s_277643cb346500::t_2553a9d6d437e9 16-30,89,131-134,157-158,187,209
+packages/services/src/storage.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-8,10-12,14-16,18-23,25-28,30-32,34,37-90,94,99,103-111,114-117,119-148,150-155,159-175
+packages/shared/src/custom-events.ts
+  s_277643cb346500::t_2553a9d6d437e9 2-3,7,20-24,56-58,82-88,99-101,129-140
+.github/workflows/sdk-e2e.yml
+  s_277643cb346500::t_2553a9d6d437e9 36,40-43,59
+packages/shared/package.json
+  s_277643cb346500::t_2553a9d6d437e9 14,35,44-45
+apps/dashboard/test/e2e/specs/regressions/registration.spec.ts
+  s_277643cb346500::t_2553a9d6d437e9 3-32,60,63-65,74-117
+packages/email/src/emails/usage-alert-email.tsx
+  s_277643cb346500::t_2553a9d6d437e9 77
+apps/dashboard/public/ai/v0.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/sdk/tests/agents.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-174
+apps/insights/src/detection.ts
+  s_277643cb346500::t_2553a9d6d437e9 20-25,119-126,141,252,276,313-319,321-325,328-329,336,339,345,360,426,435-436,480-481,511,583-605,615-619,673-679,732-734,787,795,958-963,965-967,1019,1027,1052-1058,1062-1063,1104-1105,1157,1295,1299,1307,1316-1318,1387,1393-1394,1620-1630,1679,1770-1771,1814,1866
+apps/insights/src/effects.ts
+  s_277643cb346500::t_2553a9d6d437e9 24
+apps/dashboard/package.json
+  s_277643cb346500::t_2553a9d6d437e9 53
+packages/rpc/src/routers/link-folders.ts
+  s_277643cb346500::t_2553a9d6d437e9 4,75,78-85,92
+packages/shared/src/agent-discovery.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 22,27-29
+apps/docs/components/landing/hero.tsx
+  s_277643cb346500::t_2553a9d6d437e9 151
+packages/db/src/clickhouse/schema/analytics/revenue/webhook_deliveries.sql
+  s_277643cb346500::t_2553a9d6d437e9 1-18
+apps/insights/src/business-aware-selection.ts
+  s_277643cb346500::t_2553a9d6d437e9 29,39-102,182-193,201,208
+apps/dashboard/app/(auth)/login/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,26-28,135-202,204-215,287-294
+packages/scan/quality/run.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-133
+packages/shared/src/uploads.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-16
+apps/status/app/_components/status-error-shell.tsx
+  s_277643cb346500::t_2553a9d6d437e9 10,43-55,57-58,62
+apps/dashboard/app/(main)/monitors/[id]/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 4,7,11-14
+apps/docs/components/landing/trusted-by.tsx
+  s_277643cb346500::t_2553a9d6d437e9 2-8,17-22,25,31,34,37-40,59-62,65-68,71-74,78-89,92,97-112,116-127,136,139-155,162,165-181
+apps/api/src/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,50
+packages/scan/src/scan.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-863
+apps/dashboard/app/(auth)/auth-layout.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1-104
+packages/ai/src/ai/tools/scrape-page.ts
+  s_277643cb346500::t_2553a9d6d437e9 62-65,67-76,79-85,235,240,248-254,269-277,283-284,288,292,296,315-317,406,416,425-426,445
+packages/shared/src/ssrf-guard.ts
+  s_277643cb346500::t_2553a9d6d437e9 3,67-68,76,156-184,186-190,201-208,239-243,246-253,269
+scripts/lint-policy.ts
+  s_277643cb346500::t_2553a9d6d437e9 12,778-782
+apps/dashboard/app/(main)/websites/[id]/_components/tabs/overview/_components/traffic-trends-chart.tsx
+  s_277643cb346500::t_2553a9d6d437e9 7,807-840
+apps/insights/src/investigation-billing.ts
+  s_277643cb346500::t_2553a9d6d437e9 96
+apps/basket/src/routes/webhooks/paddle.ts
+  s_277643cb346500::t_2553a9d6d437e9 8-13,61,247-248,252,256,262-275
+apps/dashboard/app/(main)/feedback/components/redeem-dialog.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-4,36-40
+packages/db/src/clickhouse/migrations/20260921_engagement_spans.sql
+  s_277643cb346500::t_2553a9d6d437e9 1-40
+apps/dashboard/app/(main)/websites/[id]/map/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,5-6,8-10,12-13,15-39,56-75,78-84,87,89,92-93,96-129,132-235
+apps/dashboard/lib/ai-components/message-parts.ts
+  s_277643cb346500::t_2553a9d6d437e9 27
+packages/env/src/app.ts
+  s_277643cb346500::t_2553a9d6d437e9 62-69,82,85,94-97,99,145-168,189,192,202-214
+apps/docs/content/docs/privacy/event-scanner.mdx
+  s_277643cb346500::t_2553a9d6d437e9 1-58
+apps/dashboard/public/ai/DuckDuckGo.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/public/ai/Perplexity.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/dashboard/app/(main)/layout.tsx
+  s_277643cb346500::t_2553a9d6d437e9 6,61
+packages/shared/src/billing.ts
+  s_277643cb346500::t_2553a9d6d437e9 12-19
+apps/dashboard/app/(auth)/login/forgot/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,16,117-120
+packages/scan/src/catalog.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-481
+apps/insights/src/route-health-detection.ts
+  s_277643cb346500::t_2553a9d6d437e9 10-12,297-299,308-309,377,391-397,399-407,488,503-504,511,522-523,548,602,648-654,657-658,666-689,722,724-725,786-792,815
+packages/rpc/src/lib/analytics-utils.ts
+  s_277643cb346500::t_2553a9d6d437e9 190
+packages/shared/src/utils/bot-detection/detector.ts
+  s_277643cb346500::t_2553a9d6d437e9 2,126-140,184-189,191-194
+apps/basket/src/routes/identify.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 19-20,34
+packages/rpc/src/procedures/with-resource.ts
+  s_277643cb346500::t_2553a9d6d437e9 122
+packages/tracker/tests/unit/http-client.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 461
+packages/services/src/import/providers/plausible.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-151
+packages/services/src/import/providers/posthog.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-265
+packages/scan/src/evaluate.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-413
+apps/status/app/globals.css
+  s_277643cb346500::t_2553a9d6d437e9 88-93,130-135
+apps/dashboard/app/(main)/websites/[id]/pulse/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,5-10,13-14,17-18,20,22,27-67,70,74-80,82-84
+apps/dashboard/app/(auth)/login/magic/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,15,55-58
+packages/shared/src/utils/bot-detection/well-known-bots.LICENSE
+  s_277643cb346500::t_2553a9d6d437e9 1-20
+packages/tracker/src/core/utils.ts
+  s_277643cb346500::t_2553a9d6d437e9 21,24-29,102,109-110,114,117,120,163-171,255
+packages/auth/src/oauth.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-51
+apps/basket/src/routes/identify.ts
+  s_277643cb346500::t_2553a9d6d437e9 10-11,51,54
+packages/ai/src/mcp/http.ts
+  s_277643cb346500::t_2553a9d6d437e9 6,24-25,35,42,74,108-109,116-118
+apps/dashboard/public/ai/Kimi.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/auth/src/auth.ts
+  s_277643cb346500::t_2553a9d6d437e9 138-148,437,461-468,633,999-1001
+apps/dashboard/public/providers/posthog.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/rpc/src/services/uptime-lifecycle.ts
+  s_277643cb346500::t_2553a9d6d437e9 21-23,32,179-191
+apps/api/src/routes/discovery.ts
+  s_277643cb346500::t_2553a9d6d437e9 16,130-138
+packages/ai/src/query/builders/performance.ts
+  s_277643cb346500::t_2553a9d6d437e9 40,323
+apps/dashboard/app/(main)/home/_components/summary-stats.tsx
+  s_277643cb346500::t_2553a9d6d437e9 21,57,207,211,214
+apps/status/app/[slug]/_components/status-page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 2,4,6,9,16-17,23-24,29-30,36-37,39,41-48,50-51,54,58-64,68,72-84,86,88,90,92-96,98,102-106,109-115,118-121,124-130,132-159,161-163,167-169,173-178,180,182,186,188-199,201
+apps/dashboard/public/providers/plausible.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/db/src/clickhouse/migrations/20260928_ai_traffic_host_accept.sql
+  s_277643cb346500::t_2553a9d6d437e9 1-5
+apps/dashboard/components/table/table-toolbar.tsx
+  s_277643cb346500::t_2553a9d6d437e9 1,7,17,36
+packages/redis/index.ts
+  s_277643cb346500::t_2553a9d6d437e9 7
+apps/dashboard/app/(main)/billing/components/topup-card.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3-4,62-65
+packages/rpc/src/routers/imports.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-230
+apps/basket/src/routes/integration.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 1-2,25-27,46-48,123,152-153,175-176,183-186,205-208,378-426,1312-1416
+apps/docs/app/(home)/terms/page.tsx
+  s_277643cb346500::t_2553a9d6d437e9 249-252,261-263
+apps/insights/src/investigation-flow.test.ts
+  s_277643cb346500::t_2553a9d6d437e9 920-988,1415-1421,1459,3209-3247,3267,3453,3570,3708,3720,3729,3769,3803
+packages/ai/src/ai/test-redis-mock.ts
+  s_277643cb346500::t_2553a9d6d437e9 40
+apps/dashboard/app/(main)/insights/_components/investigation-row.tsx
+  s_277643cb346500::t_2553a9d6d437e9 5-9,11,14-18,23-24,28-32,201-524
+apps/dashboard/public/ai/Huawei.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/scan/tsconfig.json
+  s_277643cb346500::t_2553a9d6d437e9 1-10
+apps/dashboard/public/ai/Kagi.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+apps/basket/src/routes/webhooks/stripe-normalization.ts
+  s_277643cb346500::t_2553a9d6d437e9 48,50,69,71,88,127,285,307,322,367-371,379-385,387-388,394-396,407-412,430,439-444,447-453,455-475
+apps/dashboard/hooks/use-dynamic-query.ts
+  s_277643cb346500::t_2553a9d6d437e9 22-23,111
+apps/docs/public/pricing.md
+  s_277643cb346500::t_2553a9d6d437e9 14-15,66-67
+packages/rpc/src/lib/business-context-access.ts
+  s_277643cb346500::t_2553a9d6d437e9 38
+apps/api/src/routes/integrations/github.ts
+  s_277643cb346500::t_2553a9d6d437e9 8,265-275
+apps/dashboard/app/(main)/monitors/status-pages/[id]/_components/create-incident-sheet.tsx
+  s_277643cb346500::t_2553a9d6d437e9 33-62,64,71-72,78-79,83-84,92,96-101,103-104,107-132,135-139,150-154,157,159-165,168-174,176,179-181,183-184,193,196,199,202,208-242,244,246-252,254-306,309-311,318-320,322-326,330-334,347,355-356,359
+apps/dashboard/public/ai/Doubao.svg
+  s_277643cb346500::t_2553a9d6d437e9 1
+packages/ui/src/lib/uptime/latency-area-chart.tsx
+  s_277643cb346500::t_2553a9d6d437e9 3,117-119,130,136-137,155
+bun.lock
+  s_277643cb346500::t_e96cffb1571b30 32,44,139,413-416,424,439,604-620,625,650,653,861,863,865,867,869,871,873,875,877,879,881-885,1015-1016,2291,2367,2369,2457,2747,3221,3331-3332,3631,3963,4027,4123,4217,4219,4437,4465-4466,4507,4509,4527-4529,4609,4903,4939,4943-4945,4947-4949,4955-4956,4997-4998,5011,5031-5032,5035-5036,5057,5109-5110,5161,5187-5190,5213,5251,5317-5318,5583-5584,5661-5662,5737-5740,5951,6025,6029-6030,6037-6038,6121-6124,6139,6307-6308,6313-6314
+packages/db/src/clickhouse/schema/tables.generated.ts
+  s_277643cb346500::t_3d7e47dcdce942 16-22,33-39,136-199,466-489,545,554,559,563,572
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c9fca688ded0ae89efc7181fb386733f1c247ce6",
+  "prompts": {},
+  "sessions": {
+    "s_277643cb346500": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f18aeb7cbffePJpWc7PlrEgt0C",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
