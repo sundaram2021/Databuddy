@@ -1,0 +1,31 @@
+packages/rpc/src/services/link-service.test.ts
+  s_277643cb346500::t_2084d5f46de21e 103-108
+  s_277643cb346500::t_e678e4e8f96de8 322-355
+packages/rpc/src/services/link-service.ts
+  s_277643cb346500::t_799844d9bdec59 410
+  s_277643cb346500::t_4152155fce967b 148-199
+  s_277643cb346500::t_9e2ff9cf7d8f70 19
+  s_277643cb346500::t_27e6364da6bf1e 427-450
+packages/rpc/src/routers/links.schemas.ts
+  s_277643cb346500::t_f6e058f3ffe074 138
+  s_277643cb346500::t_adb5c85a3cc50f 86-97
+packages/rpc/src/routers/links.ts
+  s_277643cb346500::t_73c847b72c52c8 248
+  s_277643cb346500::t_9ac1f1ff77b378 221-222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "131f2f1c9f560658775311550bf6fe80c21353c6",
+  "prompts": {},
+  "sessions": {
+    "s_277643cb346500": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f18aeb7cbffePJpWc7PlrEgt0C",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
