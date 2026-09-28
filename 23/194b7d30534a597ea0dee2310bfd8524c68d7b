@@ -1,0 +1,245 @@
+apps/dashboard/public/ai/DuckDuckGo.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/app/(main)/websites/[id]/settings/import/page.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-362
+apps/dashboard/public/ai/v0.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/Huawei.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/docs/public/social/supabase.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/db/src/clickhouse/migrations/20260926_ai_traffic_format.sql
+  s_277643cb346500::t_e1a59b10e5a8f5 1-4
+apps/docs/app/(home)/startups/startups-form.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-374
+packages/scan/src/evaluate.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-413
+packages/services/src/import/providers/posthog.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-156
+packages/shared/src/uploads.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-16
+packages/auth/src/oauth-schema.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-86
+apps/docs/public/social/notra.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1-5
+apps/docs/public/social/vercel.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/docs/content/docs/sdk/ai-agents.mdx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-114
+apps/dashboard/public/providers/plausible.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/scan/src/actions.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-2242
+apps/dashboard/components/icon.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-20
+apps/dashboard/public/ai/Apple.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/Meta.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/auth/src/mcp-oauth.integration.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-408
+packages/db/src/clickhouse/schema/analytics/revenue/webhook_deliveries.sql
+  s_277643cb346500::t_e1a59b10e5a8f5 1-18
+packages/validation/src/schemas/engagement.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-65
+packages/db/src/clickhouse/migrations/20260928_ai_traffic_host_accept.sql
+  s_277643cb346500::t_e1a59b10e5a8f5 1-5
+apps/dashboard/app/(auth)/auth-capabilities.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-39
+apps/dashboard/app/(auth)/layout.test.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-79
+apps/docs/public/social/ycombinator.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/api/src/schemas/query-schemas.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-107
+apps/dashboard/public/ai/Doubao.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/Atlassian.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/auth/src/oauth.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-51
+apps/docs/content/docs/privacy/event-scanner.mdx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-58
+packages/services/src/import/runner.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-90
+apps/dashboard/public/ai/ByteDance.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/test/e2e/specs/regressions/onboarding.spec.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-149
+apps/dashboard/public/ai/Poe.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/app/(auth)/auth-layout.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-104
+apps/dashboard/public/ai/Cohere.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/db/src/clickhouse/schema/analytics/engagement/engagement_spans.sql
+  s_277643cb346500::t_e1a59b10e5a8f5 1-37
+packages/services/src/import/pipeline.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-720
+apps/dashboard/public/ai/Ai2.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/ChatGPT.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/scan/cli.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-394
+apps/dashboard/public/ai/Cloudflare.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/db/src/clickhouse/migrations/20260925_ai_traffic_agent_columns.sql
+  s_277643cb346500::t_e1a59b10e5a8f5 1-7
+apps/dashboard/public/ai/Gemini.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/docs/public/social/upstash.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/Claude.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/services/src/import/pipeline.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-221
+packages/ai/src/ai/mcp/oauth-website-access.integration.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-120
+apps/dashboard/app/(main)/websites/[id]/agents/page.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-1079
+packages/rpc/src/routers/imports.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-230
+apps/dashboard/public/ai/Amazon.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/scan/src/terminal.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-222
+packages/scan/src/catalog.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-481
+packages/services/src/import/providers/plausible.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-151
+packages/shared/src/utils/bot-detection/ai-agents.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-260
+packages/scan/quality/cases.json
+  s_277643cb346500::t_e1a59b10e5a8f5 1-4312
+packages/scan/LICENSE
+  s_277643cb346500::t_e1a59b10e5a8f5 1-21
+apps/dashboard/app/(main)/monitors/_components/monitor-detail.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-755
+apps/dashboard/public/ai/Kimi.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/redis/import-queue.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-59
+apps/dashboard/app/(auth)/consent/page.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-143
+apps/api/src/routes/public/scan.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-173
+apps/dashboard/public/ai/Phind.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/providers/simple-analytics.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/docs/public/social/context-dev.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1-21
+apps/dashboard/public/ai/Perplexity.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+scan.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-2
+apps/dashboard/components/layout/overage-banner.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-77
+packages/rpc/src/routers/status-page-schemas.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-99
+packages/rpc/src/routers/status-page-data.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-464
+packages/scan/package.json
+  s_277643cb346500::t_e1a59b10e5a8f5 1-51
+packages/services/src/import/providers/posthog.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-265
+apps/dashboard/public/ai/Parallel.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1-12
+apps/insights/src/ai-agent-detection.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-67
+packages/services/src/import/providers/simple-analytics.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-146
+apps/docs/app/api/startups/submit/route.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-162
+packages/sdk/src/agents/index.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-105
+apps/dashboard/public/ai/OpenCode.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/scan/src/scan.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-863
+apps/dashboard/public/providers/posthog.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/Kagi.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/basket/src/lib/api-key.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-73
+apps/docs/public/social/coderabbit.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/links/src/index.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-163
+apps/dashboard/public/ai/Mistral.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/ai/src/query/builders/ai-agents.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-429
+packages/scan/quality/run.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-133
+packages/scan/quality.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-961
+packages/scan/src/cli.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-96
+packages/sdk/tests/agents.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-174
+apps/dashboard/public/ai/Copilot.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/services/src/import/runner.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-170
+packages/shared/src/utils/bot-detection/well-known-bots.LICENSE
+  s_277643cb346500::t_e1a59b10e5a8f5 1-20
+apps/dashboard/public/ai/Zed.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/scan/src/evaluate.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-224
+apps/dashboard/public/ai/Exa.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/insights/src/ai-agent-detection.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-188
+apps/docs/public/social/openai.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/scan/README.md
+  s_277643cb346500::t_e1a59b10e5a8f5 1-63
+apps/dashboard/public/ai/Manus.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/scan/tsconfig.json
+  s_277643cb346500::t_e1a59b10e5a8f5 1-10
+apps/dashboard/public/ai/Tavily.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/shared/src/utils/bot-detection/well-known-bots.json
+  s_277643cb346500::t_e1a59b10e5a8f5 1-18636
+apps/api/src/routes/public/scan.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-231
+apps/dashboard/public/ai/Devin.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/DeepSeek.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/docs/app/(home)/startups/page.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-86
+packages/ai/src/query/index.test.ts
+  s_277643cb346500::t_e1a59b10e5a8f5 1-25
+apps/dashboard/public/ai/Firecrawl.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/Mozilla.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+apps/dashboard/public/ai/Cursor.svg
+  s_277643cb346500::t_e1a59b10e5a8f5 1
+packages/db/src/clickhouse/migrations/20260921_engagement_spans.sql
+  s_277643cb346500::t_e1a59b10e5a8f5 1-40
+apps/dashboard/app/public/investigations/[shareId]/page.tsx
+  s_277643cb346500::t_e1a59b10e5a8f5 1-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "23194b7d30534a597ea0dee2310bfd8524c68d7b",
+  "prompts": {},
+  "sessions": {
+    "s_277643cb346500": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f18aeb7cbffePJpWc7PlrEgt0C",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
